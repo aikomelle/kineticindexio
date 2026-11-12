@@ -6,3 +6,5 @@
 Keep it small.
 def calc(x):
     return x * 2
+
+# d0249b
